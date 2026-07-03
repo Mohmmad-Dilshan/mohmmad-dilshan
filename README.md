@@ -59,25 +59,25 @@
   <div align="center">
   
   ### 🏆 Trophies & Achievements
-  <img src="https://github-profile-trophy.vercel.app/?username=mohmmad-dilshan&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  <img src="https://github-profile-repo.vercel.app/?username=mohmmad-dilshan&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
   
   <br>
   
   | **GitHub Analytics** | **Top Languages** |
   | :---: | :---: |
-  | <img src="https://github-readme-stats.shion.dev/api?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="185px" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="185px" /> |
+  | <img src="https://github-readme-stats.shion.dev/api?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800" height="185px" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" height="185px" /> |
   
   <br>
   
   **🔥 Current Streak**  
-  <img src="https://streak-stats.demolab.com/?user=mohmmad-dilshan&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=mohmmad-dilshan&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
   
   </div>
   
   ---
   
   ## 📈 Activity Map
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmmad-dilshan&theme=tokyonight&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&cache_seconds=1800)
   
   ---
   
