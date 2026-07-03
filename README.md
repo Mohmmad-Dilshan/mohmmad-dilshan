@@ -95,19 +95,19 @@ From concept to deployment, I handle the full lifecycle of a product.
 
 | **GitHub Analytics** | **Top Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.shion.dev/api?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800" height="195px" alt="GitHub Stats" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" height="195px" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.shion.dev/api?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800&v=1" height="195px" alt="GitHub Stats" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800&v=1" height="195px" alt="Top Languages" /> |
 
 <br/>
 
 **🔥 Current Streak**  
-<img src="https://streak-stats.demolab.com/?user=mohmmad-dilshan&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" alt="Current Streak" />
+<img src="https://streak-stats.demolab.com/?user=mohmmad-dilshan&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" width="100%" alt="Current Streak" />
 
 </div>
 
 ---
 
 ## 📈 Activity Map
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohmmad-dilshan&theme=tokyo-night&hide_border=true&cache_seconds=1800" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohmmad-dilshan&theme=tokyo-night&hide_border=true&cache_seconds=1800&v=1" width="100%" alt="Activity Graph" />
 
 ---
 
