@@ -1,8 +1,7 @@
 <div align="center">
 
 # 💫 Hi I'm Dilshan 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDAE&background=1A1B2700&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Building+Products%2C+Not+Just+Projects;Focused+on+Scalable+%26+Clean+Code;Lifelong+Learner+%26+Execution+Believer" alt="Typing SVG" />
+### 🚀 Full Stack Developer | Building Products, Not Just Projects
 
 ---
 
