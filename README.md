@@ -89,25 +89,25 @@ From concept to deployment, I handle the full lifecycle of a product.
 <div align="center">
 
 ### 🏆 Trophies & Achievements
-<img src="https://github-profile-repo.vercel.app/?username=mohmmad-dilshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
+<img src="https://github-profile-repo.vercel.app/?username=Mohmmad-Dilshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
 
 <br/>
 
 | **GitHub Analytics** | **Top Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.shion.dev/api?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800&v=1" height="195px" alt="GitHub Stats" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohmmad-dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800&v=1" height="195px" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.shion.dev/api?username=Mohmmad-Dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800&v=1" height="195px" alt="GitHub Stats" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mohmmad-Dilshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800&v=1" height="195px" alt="Top Languages" /> |
 
 <br/>
 
 **🔥 Current Streak**  
-<img src="https://streak-stats.demolab.com/?user=mohmmad-dilshan&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" width="100%" alt="Current Streak" />
+<img src="https://streak-stats.demolab.com/?user=Mohmmad-Dilshan&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" width="100%" alt="Current Streak" />
 
 </div>
 
 ---
 
 ## 📈 Activity Map
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohmmad-dilshan&theme=tokyo-night&hide_border=true&cache_seconds=1800&v=1" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohmmad-Dilshan&theme=tokyo-night&hide_border=true&cache_seconds=1800&v=1" width="100%" alt="Activity Graph" />
 
 ---
 
@@ -118,7 +118,7 @@ I'm always open to new opportunities and interesting projects. Feel free to reac
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohmmad-dilshan&icon=0&color=36BCF7&style=for-the-badge)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohmmad-Dilshan&icon=0&color=36BCF7&style=for-the-badge)](https://visitcount.itsvg.in)
 
 <br/>
 
